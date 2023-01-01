@@ -5,7 +5,7 @@ START_TXT = """
 
 I'ᴍ Hᴇʀᴇ Tᴏ Hᴇʟᴘ Yᴏᴜ Mᴀɴᴀɢᴇ Yᴏᴜʀ Gʀᴏᴜᴘs! I Cᴀɴ  Pʀᴏᴠɪᴅᴇ  Mᴏᴠɪᴇs  Iɴ  Tᴇʟᴇɢʀᴀᴍ  Gʀᴏᴜᴘs I Cᴀɴ  Aʟsᴏ  Aᴅᴅ  Fɪʟᴛᴇʀs  Iɴ Tᴇʟᴇɢʀᴀᴍ  Gʀᴏᴜᴘs.  Jᴜsᴛ  Aᴅᴅ  Nᴇ  Tᴏ  Yᴏᴜʀ  Gʀᴏᴜᴘ  Aɴᴅ  Eɴᴊᴏʏ</i>
 
-<b>Cʀᴇᴀᴛᴇᴅ Wɪᴛʜ ❤ Bʏ @Fʜ_ʙᴏᴛs </b>"""
+<b>Cʀᴇᴀᴛᴇᴅ Wɪᴛʜ ❤ Bʏ <a href=https://t.me/fh_bot_updates>@Fʜ_ʙᴏᴛs</a> </b>"""
 
 
 HELP_TXT = """
