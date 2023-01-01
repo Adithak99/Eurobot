@@ -260,31 +260,31 @@ class vars(object):
         [
             button()
                 (
-                    "➕️ Add Me To Your Group ➕️",
+                    "ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ",
                         url=f"https://t.me/{Bots.BOT_USERNAME}?startgroup=new"
                 )
         ],
         [
             button()
                 (
-                    "Support",
-                        url="https://t.me/+sv5flNs7yew1OTk1"
+                    "ᴄʜᴀɴɴᴇʟ",
+                        url="https://t.me/film_hous"
                 ),
             button()
                 (
-                    "Updates",
-                        url="https://t.me/Mo_Tech_YT"
+                    "ɢʀᴏᴜᴘ",
+                        url="https://t.me/cenEma9"
                 )
         ],
         [
             button()
                 (
-                    "Help",
+                    "ʜᴇʟᴘ",
                         callback_data="maincb+help_cb"
                 ),
             button()
                 (
-                    "About",
+                    "ᴀʙᴏᴜᴛ",
                        callback_data="maincb+about_cb"
                 )
         ]
