@@ -1,12 +1,10 @@
 START_TXT = """
-Hello 👋 {mention} 
+Hᴇʟʟᴏ 👋 <b>{mention}</b> 
 
-I'm <b>{bot}</b> ✨ an advanced telegram Group management
+I'ᴍ <b>{bot}</b> ✨ Aɴ Aᴅᴠᴀɴᴄᴇᴅ Tᴇʟᴇɢʀᴀᴍ Gʀᴏᴜᴘ Mᴀɴᴀɢᴇᴍᴇɴᴛ
 
-I'm here to help you manage your groups! Hit /help to find out more about how to use me to my full potential..!
+I'ᴍ Hᴇʀᴇ Tᴏ Hᴇʟᴘ Yᴏᴜ Mᴀɴᴀɢᴇ Yᴏᴜʀ Gʀᴏᴜᴘs! I Cᴀɴ  Pʀᴏᴠɪᴅᴇ  Mᴏᴠɪᴇs  Iɴ  Tᴇʟᴇɢʀᴀᴍ  Gʀᴏᴜᴘs I Cᴀɴ  Aʟsᴏ  Aᴅᴅ  Fɪʟᴛᴇʀs  Iɴ Tᴇʟᴇɢʀᴀᴍ  Gʀᴏᴜᴘs.  Jᴜsᴛ  Aᴅᴅ  Nᴇ  Tᴏ  Yᴏᴜʀ  Gʀᴏᴜᴘ  Aɴᴅ  Eɴᴊᴏʏ """
 
-Join <b><a href=http://t.me/Mo_Tech_YT>my news channel</a></b> to get information on all the latest updates
-"""
 
 HELP_TXT = """
 👋 <b>Hello {mention}!</b>
